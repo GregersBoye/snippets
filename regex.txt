@@ -1,0 +1,5 @@
+
+Convert from .evn to json: 
+	([A-Z_]+): ([^\n,]*)\n
+	"$1": "$2"\n
+
